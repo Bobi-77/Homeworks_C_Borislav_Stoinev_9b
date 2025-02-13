@@ -1,0 +1,5 @@
+gcc -c transformation.c -o transformation.o 
+
+gcc compilation3.c transformation.o -o compilation3.exe
+
+
